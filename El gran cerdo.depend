@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1656812152 source:c:\users\walter\desktop\chanchito\el gran cerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Cabezera.h"
+	<cstring>
+	<windows.h>
+
+1656712567 c:\users\walter\desktop\chanchito\el gran cerdo\cabezera.h
+
+1656731846 source:c:\users\walter\desktop\chanchito\el gran cerdo\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1656733163 source:c:\users\walter\desktop\chanchito\el gran cerdo\funciones secundarias.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1657665339 source:c:\users\walter\desktop\chanchito\el gran cerdo\minifunciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1656733163 source:c:\users\walter\documents\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\funciones secundarias.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1656712567 c:\users\walter\documents\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\cabezera.h
+
+1656731846 source:c:\users\walter\documents\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1657665339 source:c:\users\walter\documents\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\minifunciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1656718762 source:d:\cosas de walter\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\funciones secundarias.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1656698166 d:\cosas de walter\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\cabezera.h
+
+1656717446 source:d:\cosas de walter\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
+1660394568 source:d:\cosas de walter\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Cabezera.h"
+	<cstring>
+	<windows.h>
+
+1657650938 source:d:\cosas de walter\utn 1er cuatrimestre\laboratorio de computación\chanchito\el gran cerdo\minifunciones.cpp
+	<iostream>
+	<cstdlib>
+	"Cabezera.h"
+	<cstring>
+	<ctime>
+	<windows.h>
+
